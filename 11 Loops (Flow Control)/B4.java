@@ -14,8 +14,9 @@ public class B4 {
     public static void main(String args[]) {
 
         int counter = 0;
-        while(counter <= 10) {
-            System.out.println("shatrudhan-web-developer");
+
+        while(counter <= 100) {
+            System.out.println("Love You");
             counter++;
         }
     }
