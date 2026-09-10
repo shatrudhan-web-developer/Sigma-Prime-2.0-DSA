@@ -1,3 +1,5 @@
+//🔥 Print square pattern :
+
 public class C4_Que1 {
     public static void main(String args[]) {
 

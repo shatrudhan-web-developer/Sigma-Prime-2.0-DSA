@@ -1,3 +1,5 @@
+//🔥 Print reverse of a number :
+
 public class C4_Que2 {
     public static void main(String args[]) {
 
